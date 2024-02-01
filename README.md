@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh, You can call me Danny.</h1>
-<h3 align="center">Committed QA professional fueled by a passion for DSA challenges, and occasionally venturing into the world of Flutter app creation.</h3>
+<h3 align="center">Passionate QA pro acing DSA challenges, with a side hustle in crafting Flutter wonders. Testing bugs and building apps – my kind of day! 🚀</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshborude&show_icons=true&locale=en&layout=compact" alt="dineshborude" /></p>
 
