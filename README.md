@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [DSA Challenges](https://github.com/dineshborude/Java-Restart)
 
-- 🌱 I’m currently learning [**Problem Solving i.e DSA, at https://www.codewars.com/users/dineshborude**](https://www.codewars.com/users/dineshborude/badges/large)
+- 🌱 I’m currently learning [**Problem Solving i.e DSA, at : CodeWars**](https://www.codewars.com/users/dineshborude)
 
 
 
