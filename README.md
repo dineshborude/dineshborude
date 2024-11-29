@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinesh, You can call me Danny.</h1>
+<h1 align="center">Hi 👋, I'm Dinesh, You can call me Dannyy.</h1>
 <h3 align="center">Passionate QA pro tackling coding puzzles, casually dabbling in Flutter app magic, and occasionally moonlighting as a cyber warrior. Because finding bugs is just as easy as fixing a cup of chai, right? ☕💻🤷‍♂️</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshborude&show_icons=true&locale=en&layout=compact" alt="dineshborude" /></p>
