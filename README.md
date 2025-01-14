@@ -7,11 +7,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshborude&" alt="dineshborude" /></p>
 
-- 🔭 I’m currently working on [DSA Challenges](https://github.com/dineshborude/Java-Restart)
-
-- 🌱 I’m currently learning [**Problem Solving i.e DSA, at : CodeWars**](https://www.codewars.com/users/dineshborude)
-
-
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
