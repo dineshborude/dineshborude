@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Dinesh, You can call me Danny.</h1>
 <h3 align="center">Breaking software, because someone has to do it.</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dineshborude)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshborude&show_icons=true&locale=en" alt="dineshborude" /></p>
 
