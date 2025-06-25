@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Dinesh — a QA Engineer on a mission to break modern web apps (politely).<br><br>🔭 Currently working on:<br>- End-to-end testing of modern web apps using **Playwright**<br>- Automating mobile apps with **Appium**<br>- Learning **AWS** and exploring cloud-based CI/CD pipelines<br><br>🌩️ Looking for help with:<br>- Setting up efficient **E2E cloud CI/CD workflows**<br><br>💬 Ask me about:<br>- **Playwright**, **Appium**, and unapologetically dark jokes 😈<br>
+👋 Hi, I'm Dinesh — a QA Engineer on a mission to break modern web apps (politely).<br><br>🔭 Currently working on:<br>- End-to-end testing of modern web apps using **Playwright**<br>- Automating mobile apps with **Appium**<br>- Learning **AWS** and exploring cloud-based CI/CD pipelines<br><br>🌩️ Looking for help with:<br>- Setting up efficient **E2E cloud CI/CD workflows**<br><br>💬 Ask me about:<br>- **Playwright**, **Appium**, and unapologetically dad jokes 😈<br>
 
 
 ## 🌐 Socials:
